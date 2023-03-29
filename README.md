@@ -46,7 +46,7 @@
         </tr>
     </table>
 
-<h3> About Me </h3>
+<h3 align ="center"> About Me </h3>
 
 - :telescope: I’m working as a Lead SDET and have been into this domain from last 10 years.
 
