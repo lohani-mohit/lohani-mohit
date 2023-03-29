@@ -17,9 +17,9 @@
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = "200"></img>
 <img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "200"></img>
  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width = "200"></img>
- </div>
+</div>
 
-    <table>
+  <table>
         <tr>
             <td>Programming Languages</td>
             <td>Java, Python, JavaScript, HTML, CSS</td>
