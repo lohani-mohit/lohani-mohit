@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there, I'm Mohit 👋</h1>
 
 <div id="badges">
   <a href="your-linkedin-URL">
