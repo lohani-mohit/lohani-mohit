@@ -13,7 +13,7 @@
 
 
 <div align = "center" >
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width = "400"></img>
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width = "200"></img>
 </div>
 
 <h3>Below are my Skills 👨🏻‍💻 </h3>
