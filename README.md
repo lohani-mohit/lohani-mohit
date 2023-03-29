@@ -1,7 +1,7 @@
 <h1> Hi there👋🏼, I'm Mohit</h1>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
 <div align = "center" >
-<img src="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I" width = "100"></img>
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width = "100"></img>
 </div>
 
 <div id="badges">
