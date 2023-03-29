@@ -6,9 +6,9 @@
 <h1 align = "center">I'm Mohit👋🏼</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/mlohani2/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://lohani-mohit.github.io/my-site/">
-    <img src="https://img.shields.io/badge/Resume-black?logo=indeed&logoColor=white&style=for-the-badge" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=indeed&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
