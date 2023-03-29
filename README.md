@@ -17,7 +17,7 @@
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = "400"></img>
 </div>
 
-<h2 align = "center">My Skills 👨🏻‍💻 </h2>
+<h2 >My Skills 👨🏻‍💻 </h2>
     <table>
         <tr>
             <td>Programming Languages</td>
