@@ -12,3 +12,34 @@
     <img src="https://img.shields.io/badge/about-me-black?style=for-the-badge&logo=indeed&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
+
+<h3>Skills</h3>
+    <table>
+        <tr>
+            <td>Programming Languages</td>
+            <td>Java, Python, JavaScript, HTML, CSS</td>
+        </tr>
+        <tr>
+            <td>Automation Tools</td>
+            <td>Selenium, Appium, Postman, RestAssured, SoapUI, Selenide, JMeter, Pytest, TestNG, JUnit, Cucumber,
+                Playwright</td>
+        </tr>
+        <tr>
+            <td>Database</td>
+            <td>MySQL, MongoDB, SQL Server</td>
+        </tr>
+        <tr>
+            <td>Version Control</td>
+            <td>Git</td>
+        </tr>
+        <tr>
+            <td>Cloud</td>
+            <td>AWS, GCP</td>
+        </tr>
+        <tr>
+            <td>CI/CD</td>
+            <td>Jenkins, Github Actions</td>
+        </tr>
+    </table>
+
+
