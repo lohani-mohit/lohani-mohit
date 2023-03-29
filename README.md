@@ -1,4 +1,10 @@
-<h1> Hi there, I'm Mohit 👋</h1>
+ <div class="top-container">
+        <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
+        <h1> Hi there, I'm Mohit</h1>
+        <h2>QA, <span class="programmer">programmer</span> & musician</h2>
+        <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+        <img src="images/mountain.png" alt="mountain-img">
+  </div>
 
 <div id="badges">
   <a href="your-linkedin-URL">
