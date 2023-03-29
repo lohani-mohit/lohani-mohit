@@ -1,4 +1,4 @@
- <div class="top-container">
+ <div style="background-color: #E4F9F5; position: relative; padding-top: 100px;">>
         <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
         <h1> Hi there, I'm Mohit</h1>
         <h2>QA, <span class="programmer">programmer</span> & musician</h2>
