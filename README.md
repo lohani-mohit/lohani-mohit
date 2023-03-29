@@ -17,7 +17,6 @@
 
 <h3>Below are my Skills 👨🏻‍💻 </h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
 <div align = "center" >
 <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width = "400"></img>
 </div>
