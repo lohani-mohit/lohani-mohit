@@ -48,11 +48,11 @@
 
 <h3> About Me </h3>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Lead SDET and have been into this domain from last 10 years.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Stay up to date with the technology.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play guitar.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mlohani2/)
+- :mailbox:How to reach me: <a class="btn" href="mailto:mohit.lohanivk@gmail.com">CONTACT ME </a>
 
