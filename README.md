@@ -13,10 +13,11 @@
 </div>
 
 <hr>
-
+<div align = "center">
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = "200"></img>
-<img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "200"></img>
  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width = "200"></img>
+<img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "200"></img>
+ </div>
 
     <table>
         <tr>
