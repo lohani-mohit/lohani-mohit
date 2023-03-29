@@ -47,6 +47,7 @@
     </table>
 
 <h3 align ="center"> About Me </h3>
+<div align = "center">
 
 - :telescope: I’m working as a Lead SDET and have been into this domain from last 10 years.
 
@@ -64,4 +65,6 @@
   <a href="mailto:mohit.lohanivk@gmail.com">
     <img src="https://img.shields.io/badge/contact%20me-blue?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  
+ </div>
 
