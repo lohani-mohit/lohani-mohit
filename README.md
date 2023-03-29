@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width = "300"></img>
 </div>
 <h1 align = "center">I'm Mohit👋🏼</h1>
-<p> QA, Programmer &  musician </p>
+<p align="center"> QA, Programmer &  musician </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/mlohani2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
