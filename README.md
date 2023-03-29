@@ -13,10 +13,10 @@
 
 
 <div align = "center" >
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width = "400"></img>
+<img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width = "400"></img>
 </div>
 
-<h3>Below are my Skills 👨🏻‍💻 </h3>
+<h3>My Skills 👨🏻‍💻 </h3>
     <table>
         <tr>
             <td>Programming Languages</td>
