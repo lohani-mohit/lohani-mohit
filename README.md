@@ -14,9 +14,9 @@
 
 <hr>
 <div align = "center">
-<img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = "50"></img>
-<img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "50"></img>
- <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width = "50"></img>
+<img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width = "300"></img>
+<img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "300"></img>
+ <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width = "300"></img>
 </div>
 
   <table>
