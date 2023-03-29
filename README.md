@@ -1,6 +1,6 @@
-<div align = "center>
-<img src="https://media.giphy.com/media/9apbJ0zKpujFkOLzmy/giphy.gif" width = "300"></img>
- </div>
+<div align = "center" >
+<img src="https://media.giphy.com/media/vnuKyDGL7kV3NO4p0o/giphy-downsized-large.gif" width = "100"></img>
+</div>
 <h1 align = "center">I'm Mohit👋🏼</h1>
 <p align="center"> QA, Programmer &  musician </p>
 <div align="center">
