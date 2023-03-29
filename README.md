@@ -1,5 +1,5 @@
 <div align = "center" >
-<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width = "200"></img>
+<img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width = "300"></img>
 </div>
 <h1 align = "center">I'm Mohit👋🏼</h1>
 <div align="center">
