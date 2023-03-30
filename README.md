@@ -49,8 +49,6 @@
 
 <h3> About Me </h3>
 
-- :telescope: I’m working as a Lead SDET and have been into this domain from last 10 years.
-
 - :seedling: Stay up to date with the technology.
 
 - :zap: In my free time, I play guitar.
