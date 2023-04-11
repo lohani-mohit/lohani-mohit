@@ -10,7 +10,6 @@
   <a href="https://lohani-mohit.github.io/my-site/">
     <img src="https://img.shields.io/badge/about-me-black?style=for-the-badge&logo=indeed&logoColor=white" alt="Resume Badge"/>
   </a>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>
 
 <hr>
