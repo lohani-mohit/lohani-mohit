@@ -9,39 +9,6 @@
   </a>
 </div>
 
-<hr>
-<div align = "center">
-<img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width = "200"></img>
-</div>
-<hr>
-  <table>
-        <tr>
-            <td>Programming Languages</td>
-            <td>Java, Python, JavaScript, HTML, CSS</td>
-        </tr>
-        <tr>
-            <td>Automation Tools</td>
-            <td>Selenium, Appium, Postman, RestAssured, SoapUI, Selenide, JMeter, Pytest, TestNG, JUnit, Cucumber,
-                Playwright</td>
-        </tr>
-        <tr>
-            <td>Database</td>
-            <td>MySQL, MongoDB, SQL Server</td>
-        </tr>
-        <tr>
-            <td>Version Control</td>
-            <td>Git</td>
-        </tr>
-        <tr>
-            <td>Cloud</td>
-            <td>AWS, GCP</td>
-        </tr>
-        <tr>
-            <td>CI/CD</td>
-            <td>Jenkins, Github Actions</td>
-        </tr>
-    </table>
-
 <h3> About Me </h3>
 
 - :seedling: Stay up to date with the technology.
