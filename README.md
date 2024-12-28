@@ -1,5 +1,5 @@
 <h1 align = "center">I'm Mohit👋🏼</h1>
-<h2 align="center"> Software Developer (Test, Web) </h2>
+<h2 align="center"> Software Developer (Web, Test) </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/mlohani2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
