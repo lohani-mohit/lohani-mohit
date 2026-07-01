@@ -2,10 +2,22 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  I build things for the web — always exploring and learning something new.
+  I build for the web — backend to frontend — and love turning messy problems
+  into things that feel fast and just work.
 </p>
+
+---
+
+### ⚡ A bit about me
+
+- 🧩 I work **across the stack** — APIs &amp; services on the backend, clean UIs on the front.
+- 🚀 Happiest shipping something simple that solves a real problem.
+- 🤖 Currently exploring how **AI can make everyday development faster**.
+- 🛠️ I tinker with side projects and small developer tools in my spare time.
+- 💬 Always up for a good conversation about building software.
+
 <p align="center">
-  Want the details? My portfolio and LinkedIn are the best place to start. 👇
+  Curious about the details? My <b>portfolio</b> and <b>LinkedIn</b> have the full story 👇
 </p>
 
 <p align="center">
