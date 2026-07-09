@@ -7,7 +7,7 @@
   </a>
   &nbsp;
   <a href="https://lohani-mohit.github.io/my-site/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000008?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:mohit.lohanivk@gmail.com">
